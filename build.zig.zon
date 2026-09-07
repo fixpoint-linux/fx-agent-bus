@@ -1,0 +1,13 @@
+.{
+    .name = .fx_agent_bus,
+    .version = "0.0.0",
+    .fingerprint = 0x8529bb5905480d2c,
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "tests",
+    },
+}
